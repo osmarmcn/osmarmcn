@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
  
 <div align="center">  
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=osmarmcn&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Osmar Mendes github stats" /> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarmcn&layout=compact&hide_border=true&title_color=00CED1&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osmarmcn&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Osmar Mendes github stats" /> 
+    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarmcn&layout=compact&hide_border=true&title_color=00CED1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 </br>
