@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Osmar+Mendes;I'm+28+years+old;I'm+from+Brazil;I'm+a+fullstack+developer;Be+Welcome!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71B7D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Osmar+Mendes;I'm+28+years+old;I'm+from+Brazil;I'm+a+fullstack+developer;Be+Welcome!!)](https://git.io/typing-svg)
 
 ##
  <div align="center"> 
