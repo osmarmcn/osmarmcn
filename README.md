@@ -12,6 +12,7 @@
       - **Python**: Object-oriented programming, task automation, and API development.
       - **Node.js**: Creating efficient and scalable servers.
       - **React**: Developing modern web applications with reusable components.
+      - - **MySQL/SQL**: Database management, querying, and data manipulation.
 </p>
 
 
