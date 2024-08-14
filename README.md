@@ -6,13 +6,16 @@
   - 🌱 I am currently specializing in Full Stack development with a focus on Python. Additionally, I have skills in JavaScript, Node.js, and React, which allow me to build robust and scalable applications for both front-end and back-end. 
 
   - 🔭 I am seeking my first job opportunity in the technology field. My dream is to work with Artificial Intelligence and Machine Learning, and I am continuously improving my skills to achieve this goal.
-  - 💻 **Technical Skills:**
-
-      - **JavaScript**: Developing interactive and dynamic interfaces.
-      - **Python**: Object-oriented programming, task automation, and API development.
-      - **Node.js**: Creating efficient and scalable servers.
-      - **React**: Developing modern web applications with reusable components.
-      -  **MySQL/SQL**: Database management, querying, and data manipulation.
+    <!--
+      - 💻 **Technical Skills:**
+      
+            - **JavaScript**: Developing interactive and dynamic interfaces.
+            - **Python**: Object-oriented programming, task automation, and API development.
+            - **Node.js**: Creating efficient and scalable servers.
+            - **React**: Developing modern web applications with reusable components.
+            -  **MySQL/SQL**: Database management, querying, and data manipulation.
+    -->
+  
 </p>
 
 
@@ -45,17 +48,40 @@
  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
  </div>
 
  <div align="left">
   <h3>Studying in this moment:</h3>
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
  </div>
+
+ <div align="left">
+  <h3>Tools & Libraries:</h3>
+  <p>
+    
+  ![Figma](https://img.shields.io/badge/Figma-%23272D3B.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237B52AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-0091D5?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+  ![Axios](https://img.shields.io/badge/Axios-5A29E3?style=for-the-badge&logo=axios&logoColor=white)
+  ![Chart.js](https://img.shields.io/badge/Chart.js-F5A2B4?style=for-the-badge&logo=chart.js&logoColor=white)
+   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+    ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-%230055FF.svg?style=for-the-badge&logo=python&logoColor=white)
+  </p>
+    
+  </p>
+</div>
+
 
  
  </br>
