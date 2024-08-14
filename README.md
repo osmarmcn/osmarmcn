@@ -6,12 +6,12 @@
   - 🌱 I am currently specializing in Full Stack development with a focus on Python. Additionally, I have skills in JavaScript, Node.js, and React, which allow me to build robust and scalable applications for both front-end and back-end. 
 
   - 🔭 I am seeking my first job opportunity in the technology field. My dream is to work with Artificial Intelligence and Machine Learning, and I am continuously improving my skills to achieve this goal.
-  - 💻 Technical Skills:
+  💻 **Technical Skills:**
 
-      JavaScript: Developing interactive and dynamic interfaces.
-      Python: Object-oriented programming, task automation, and API development.
-      Node.js: Creating efficient and scalable servers.
-      React: Developing modern web applications with reusable components.
+  - **JavaScript**: Developing interactive and dynamic interfaces.
+  - **Python**: Object-oriented programming, task automation, and API development.
+  - **Node.js**: Creating efficient and scalable servers.
+  - **React**: Developing modern web applications with reusable components.
 </p>
 
 
