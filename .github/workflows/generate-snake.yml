@@ -14,6 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+
       - name: Generate Snake
         uses: Platane/snk@v2.0.1
         with:
@@ -23,5 +24,6 @@ jobs:
       - name: Push Snake
         uses: peaceiris/actions-gh-pages@v3.8.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Isso já deve estar no seu arquivo
+          publish_branch: output  # Esta linha deve ser adicionada para especificar a branch
+          publish_dir: dist  # E esta linha já deve estar no seu arquivo
