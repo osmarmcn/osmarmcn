@@ -83,6 +83,7 @@
 </div>
 
 
+
  
  </br>
   
@@ -96,6 +97,7 @@
 <br>
 </div>
 
+![Snake animation](https://github.com/osmarmcn/osmarmcn/blob/output/github-contribution-grid-snake.svg)
 <!--
  ![Snake animation](https://github.com/osmarmcn/osmarmcn/blob/output/github-contribution-grid-snake.svg)
 -->
