@@ -1,0 +1,27 @@
+name: Generate Snake
+
+# Controla quando a ação é executada
+on:
+  # Executa a ação diariamente à meia-noite UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite que a ação seja executada manualmente do GitHub
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@v2.0.1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+
+      - name: Push Snake
+        uses: peaceiris/actions-gh-pages@v3.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
