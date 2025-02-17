@@ -57,8 +57,10 @@
   <h3>Studying in this moment:</h3>
 
  
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+ ![Typescript](https://img.shields.io/badge/typescript-%23000.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
 
  </div>
 
