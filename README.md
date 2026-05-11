@@ -2,19 +2,13 @@
 
 <br/>
 <p>
+  - 💻 Full Stack Developer focused on building modern web applications and scalable solutions using JavaScript, TypeScript, React, Next.js and Node.js.
 
-  - 🌱 I am currently specializing in Full Stack development with a focus on Python. Additionally, I have skills in JavaScript, Node.js, and React, which allow me to build robust and scalable applications for both front-end and back-end. 
+  - 🚀 Experience developing REST APIs, payment integrations, automation scripts and responsive web applications, applying clean code and software architecture best practices.
 
-  - 🔭 I am seeking my first job opportunity in the technology field. My dream is to work with Artificial Intelligence and Machine Learning, and I am continuously improving my skills to achieve this goal.
-    <!--
-      - 💻 **Technical Skills:**
-      
-            - **JavaScript**: Developing interactive and dynamic interfaces.
-            - **Python**: Object-oriented programming, task automation, and API development.
-            - **Node.js**: Creating efficient and scalable servers.
-            - **React**: Developing modern web applications with reusable components.
-            -  **MySQL/SQL**: Database management, querying, and data manipulation.
-    -->
+  - ☁️ Currently improving my knowledge in Cloud Computing with AWS and modern backend architectures.
+
+    
   
 </p>
 
@@ -30,10 +24,13 @@
 </br>
 
  
-<div align="center">  
-    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osmarmcn&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Osmar Mendes github stats" /> 
-    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarmcn&layout=compact&hide_border=true&title_color=00CED1&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=osmarmcn&theme=dark&hide_border=true&background=0D1117&ring=00CED1&fire=00CED1&currStreakLabel=00CED1&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
+
+ 
+
+</p>
+
 
 </br>
 
@@ -93,11 +90,7 @@
   
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{osmarmcn}/count.svg" /></p> 
-<br>
-</div>
+
 
 ![Snake animation](https://raw.githubusercontent.com/osmarmcn/osmarmcn/output/github-contribution-grid-snake-dark.svg)
 <!--
